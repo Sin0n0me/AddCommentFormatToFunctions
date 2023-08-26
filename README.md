@@ -1,0 +1,2 @@
+# AddCommentFormatToFunctions
+ヘッダファイルの関数定義にdoxygen対応のコメントフォーマットを追加します
